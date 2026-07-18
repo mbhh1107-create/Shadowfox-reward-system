@@ -170,7 +170,7 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork this
 
 ## 📄 License
 
-This project was developed for educational purposes as part of the **ShadowFox Internship Program**.
+This project was developed for educational purposes as part of the **ShadowFox**.
 
 ---
 
