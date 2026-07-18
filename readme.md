@@ -1,6 +1,6 @@
 # 🎁 ShadowFox Reward System
 
-A web-based **Reward Management System** developed as part of the **ShadowFox Internship**. This application allows users to earn, track, and redeem reward points while providing administrators with tools to manage users, rewards, and transactions efficiently.
+A web-based **Reward Management System** developed as part of the **ShadowFox Marketing**. This application allows users to earn, track, and redeem reward points while providing administrators with tools to manage users, rewards, and transactions efficiently.
 
 ---
 
